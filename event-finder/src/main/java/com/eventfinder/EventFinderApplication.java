@@ -9,5 +9,4 @@ public class EventFinderApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EventFinderApplication.class, args);
 	}
-
 }
